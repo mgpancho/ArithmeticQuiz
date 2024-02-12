@@ -1,0 +1,14 @@
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\net8.0\ArithmeticQuiz.exe
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\net8.0\ArithmeticQuiz.deps.json
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\net8.0\ArithmeticQuiz.runtimeconfig.json
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\net8.0\ArithmeticQuiz.dll
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\bin\Debug\net8.0\ArithmeticQuiz.pdb
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\net8.0\ArithmeticQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\net8.0\ArithmeticQuiz.AssemblyInfoInputs.cache
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\net8.0\ArithmeticQuiz.AssemblyInfo.cs
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\net8.0\ArithmeticQuiz.csproj.CoreCompileInputs.cache
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\net8.0\ArithmeticQuiz.dll
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\net8.0\refint\ArithmeticQuiz.dll
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\net8.0\ArithmeticQuiz.pdb
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\net8.0\ArithmeticQuiz.genruntimeconfig.cache
+C:\Users\BFI\Desktop\ArithmeticQuiz\ArithmeticQuiz\obj\Debug\net8.0\ref\ArithmeticQuiz.dll
